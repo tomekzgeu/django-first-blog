@@ -1,6 +1,5 @@
 *.pyc
-*.un~
-*.py~
+*~
 __pycache__
 ve
 db.sqlite3
